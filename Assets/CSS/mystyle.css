@@ -1,11 +1,15 @@
-h1{color:blueviolet;
-    background-color: brown;
+.h1{color:#9c619e;
+    background-color:#9e6181;
 }
 p{color:blue;
 }
 #heading-one{
-    color: green;
+    color:#639e61;
+
 }
-.text-color-blue{
+.text-color-green{
     color:blue;
 }
+.primary-color{
+    color:#9c619e;
+    }
