@@ -1,19 +1,72 @@
-.h1{
-    color:#9c619e;
-    background-color:#9e6181;
+h1{
+    color:#ffffff;
+    text-decoration: underline;
+    text-decoration-color: #ff00d4;
+    letter-spacing: 10px;
+    Text-shadow: 2px 2px 5px red;
+    font-family:'Redaction 70','Trebuchet MS', sans-serif;
+    font-weight: 100;
 }
-p{color:blue;
+h2{
+    color:#ffffff;
+    text-decoration: underline;
+    text-decoration-color: #ff00d4;
+    Text-shadow: 2px 2px 5px red;
+    font-family:'Courier New', Courier, monospace;
+    font-style: italic;
+}
+p{
+    color:#639e61;
+    background-color: #000000;
+    font-size: 16px;
+    text-align: center;
+    text-indent: 10rem;
+    text-transform: uppercase;
+    line-height: 1.5;
+    word-spacing: 20px;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    margin: 25px 50px 75px 100px;
 }
 #heading-one{
     color:#639e61;
-
 }
 .text-color-green{
-    color:blue;
+    color:#619e9c;
 }
 .primary-color{
     color:#9c619e;
     }
-    .primary-color-background{
-        background-color:#619e9c;
+.primary-color-background{
+        background-color:#ff00d4;
     }
+body {
+    background-image: url("../Images/chacky.jpg");
+    background-repeat:repeat;
+    background-size:contain;
+    background-color:#ff00d4;
+}
+a {
+color: #ff00d4;
+background-color: aqua;
+font-family: 'reenie beanie', arial, serif;
+font-size: 2rem;
+line-height: 3;
+padding: 20px;
+text-align: center;
+margin: 25px 50px 75px 200px;
+text-align: center;
+}
+a:hover{
+color: #ffffff;
+background-color: transparent;
+}
+ul{
+    color:#639e61;
+    background-color: #000000;
+    font-size: 16px;
+    text-align: left;
+    text-transform: uppercase;
+    line-height: 1.5;
+    word-spacing: 20px;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+}
